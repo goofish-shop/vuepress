@@ -1,11 +1,11 @@
 module.exports = {
-    title: 'goofish-ship vuepress',
+    title: 'goofish-shop vuepress',
     // theme: "@vuepress/theme-blog",
     base: "/vuepress/",
     plugins: [
     ],
     themeConfig: {
-
+        repo: 'https://github.com/goofish-shop/vuepress',
         dateFormat: 'YYYY-MM-DD',
 
         /**
